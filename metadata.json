@@ -1,0 +1,10 @@
+{
+  "name": "VoiceOS",
+  "description": "Effortlessly create and generate files tailored to your specific requirements in seconds.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
